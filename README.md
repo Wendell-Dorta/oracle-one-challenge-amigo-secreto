@@ -29,7 +29,7 @@ Após o sorteio, a lista de amigos será atualizada e o nome sorteado será most
 
 Você pode acessar o projeto a partir do link do GitHub Pages:
 
-1. **Link do GitPages**:  https://wendell-dorta.github.io/oracle-one-challenge-amigo-secreto/
+1. **Link do GitHub Pages**:  https://wendell-dorta.github.io/oracle-one-challenge-amigo-secreto/
    
 
 ## Tecnologias Utilizadas
