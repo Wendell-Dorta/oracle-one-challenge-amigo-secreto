@@ -27,13 +27,10 @@ Após o sorteio, a lista de amigos será atualizada e o nome sorteado será most
 
 ## Acesso ao Projeto
 
-Você pode acessar o código do projeto e rodá-lo em sua máquina local:
+Você pode acessar o projeto a partir do link do GitHub Pages:
 
-1. **Clone o repositório**:  
-   `git clone https://github.com/usuario/amigo-secreto.git`
+1. **Link do GitPages**:  https://wendell-dorta.github.io/oracle-one-challenge-amigo-secreto/
    
-2. **Abra o arquivo HTML** no seu navegador:  
-   Abra o `index.html` para visualizar a aplicação.
 
 ## Tecnologias Utilizadas
 
